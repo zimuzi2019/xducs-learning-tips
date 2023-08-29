@@ -1028,7 +1028,7 @@ SOC 微体系结构设计、嵌入式程序设计是嵌入式系统方向的方�
 
 &nbsp;
 
-补充关于实验，yacc 和 lex 的使用建议自行去英文网站查询文档，去 StackOverflow 搜索遇到的问题，否则从 0 到 1 的过程都很困难。关于实验验收，以个人经验而言，会问数据库的物理结构、语法解析器中语法树的结构、解释某一条语句的执行过程、质问为什么我本人的实现中 where 条件不能进行任意的计算。这里给出本人的渣渣实现 https://github.com/Golden-Pigeon/gpsql，请合理利用。（By [GoldenPigeon](https://github.com/Golden-Pigeon)）
+补充关于实验，yacc 和 lex 的使用建议自行去英文网站查询文档，去 StackOverflow 搜索遇到的问题，否则从 0 到 1 的过程都很困难。关于实验验收，以个人经验而言，会问数据库的物理结构、语法解析器中语法树的结构、解释某一条语句的执行过程、质问为什么我本人的实现中 where 条件不能进行任意的计算。这里给出本人的渣渣实现[https://github.com/Golden-Pigeon/gpsql](https://github.com/Golden-Pigeon/gpsql)，请合理利用。（By [GoldenPigeon](https://github.com/Golden-Pigeon)）
 
 #### 网络应用程序设计
 
